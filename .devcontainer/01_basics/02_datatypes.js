@@ -20,5 +20,5 @@ let isLoggedIn = false
 
 // object
  
-console.log(typeof null)
-console.log(typeof undefined)
+console.log(typeof null) // object // drawback of js
+console.log(typeof undefined) //undefined
